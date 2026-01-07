@@ -87,18 +87,6 @@ Aspiring **SAP UI5 Fiori Developer** with a high-performance foundation in **MVC
 
 ---
 
-### 📊 PERFORMANCE STATS
-
-<p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=ameenkhan1715&theme=radical&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=ameenkhan1715&theme=radical&show_icons=true&hide_border=true&count_private=true)" width="48%" />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&theme=radical&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&theme=radical&hide_border=true&layout=compact)" width="48%" />
-</p>
-
-<p align="center">
-<img src="[https://nirzak-streak-stats.vercel.app/?user=ameenkhan1715&theme=radical&hide_border=true](https://nirzak-streak-stats.vercel.app/?user=ameenkhan1715&theme=radical&hide_border=true)" width="100%" />
-</p>
-
----
 
 ### 📡 NETWORK & INTEL
 
