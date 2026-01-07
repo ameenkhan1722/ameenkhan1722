@@ -1,6 +1,6 @@
 # 🕹️ AMEEN UL HASSAN KHAN
 
-**SAP UI5 & FIORI DEVELOPER | FULL-STACK ENGINEER | AI ENTHUSIAST**
+**SAP UI5 & FIORI DEVELOPER | ANGULAR AND REACT DEVELOPER **
 
 <p align="center">
 <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AMEEN%20KHAN&fontSize=80&animation=fadeIn&fontAlignY=35&theme=radical](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D220%26section%3Dheader%26text%3DAMEEN%2520KHAN%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26theme%3Dradical)" />
