@@ -1,18 +1,74 @@
-# 💫 About Me:
-Hi there, I'm Ameen Ul Hassan Khan! 👋<br>🤖 About Me<br><br>SAP UI5 & Fiori Developer with a strong foundation in MVC architecture and modern web standards.<br><br><br>🔭 Current Focus: Developing RASAD, a professional SAP Fiori application for performance data management integrated with ABAP OData services.<br><br>🌱 Learning & Mastery: Advancing my skills in SAP UI5 Fiori and OData Service modeling/consumption via SAP NW Gateway.<br><br>🚀 Full-Stack Versatility: Beyond SAP, I have built a Game Specification Platform using React.js/MongoDB and a Dairy Farm Management System using Angular/Oracle.<br><br><br>🧠 AI/ML Interest: Developed a Vehicle Engine Health Predictor using Flask, CNN, and LSTM models.<br><br>👯 Collaboration: Looking to contribute to Open Source SAP projects or enterprise-grade web applications.<br><br><br>💬 Ask me about: UI5 Data Binding, OData integration, XML Views, and Fiori Design Guidelines.<br><br>🛠 Tech Stack<br>SAP Enterprise Suite<br><br><br>Frameworks: SAPUI5, SAP Fiori.<br><br><br><br>Backend & Integration: OData Services (SEGW), ABAP (Foundational), Node.js.<br><br><br><br>Platforms: SAP Business Application Studio (BAS), SAP Fiori Launchpad (Tiles, Catalogs, Groups).<br><br><br>Web & Software Development<br><br><br>Languages: JavaScript (ES6+), HTML5, CSS3, JSON, TypeScript, Python.<br><br><br><br>Frameworks: React.js, Angular, Flask.<br><br><br><br>Databases: MongoDB, Oracle.<br><br><br>Tools & DevOps<br><br><br>IDEs: VS Code, SAP GUI.<br><br><br>Version Control: Git, Bitbucket.<br><br><br>Cloud: AWS (Virtual Internship completion).<br><br>📊 GitHub Stats<br>📫 Connect with me:<br><br>LinkedIn: linkedin.com/in/ameen-ul-hassan-khan-420532284 <br><br><br>Email: ameenkhan5256@gmail.com <br><br><br>Location: Guntur,Andhra pradesh, India
+# 🚀 Ameen Ul Hassan Khan
+**SAP UI5 & Fiori Developer | Full-Stack Web Enthusiast**
 
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ameenkhan1715) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AMEEN KHAN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameenkhan_1722) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AMEEN UL HASSAN KHAN) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AMEENKHAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameenkhan5256@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ameenkhan1715&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ameenkhan1715&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[LinkedIn](https://linkedin.com/in/ameen-ul-hassan-khan-420532284) | [Email](mailto:ameenkhan5256@gmail.com) | [Portfolio](https://github.com/ameenkhan1715)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ameenkhan1715&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Professional Summary
+[cite_start]Aspiring **SAP UI5 Fiori Developer** with a strong foundation in the **MVC architecture** [cite: 20] [cite_start]and modern web standards[cite: 20]. [cite_start]I have hands-on experience developing custom UI5 applications using **SAP Business Application Studio (BAS)** [cite: 21] [cite_start]and **VS Code** [cite: 21][cite_start], specializing in frontend-to-backend integration via **OData services** and **SAP NetWeaver Gateway**[cite: 22].
+
+---
+
+### 🛠 Technical Expertise
+
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **SAP Enterprise** | [cite_start]**SAPUI5**, **SAP Fiori** [cite: 7][cite_start], **OData Services** [cite: 10][cite_start], **ABAP** (Foundational) [cite: 12][cite_start], SAP NW Gateway [cite: 11] |
+| **Frontend Dev** | [cite_start]**JavaScript (ES6+)**, **TypeScript** [cite: 39][cite_start], **HTML5**, **CSS3** [cite: 7][cite_start], **JSON** [cite: 7][cite_start], XML Views [cite: 8] |
+| **Frameworks** | [cite_start]**React.js** [cite: 34][cite_start], **Angular** [cite: 38][cite_start], **Node.js** [cite: 12][cite_start], **Flask** [cite: 41] |
+| **Architecture** | [cite_start]MVC Architecture [cite: 20][cite_start], Data Binding, Routing, Fragments, i18n [cite: 8] |
+| **Data & Tools** | [cite_start]**MongoDB** [cite: 34][cite_start], **Oracle** [cite: 38][cite_start], **Git** [cite: 26][cite_start], SAP Business Application Studio [cite: 15] |
+
+---
+
+### 📂 Key Projects
+
+#### [cite_start]**RASAD — Player Metrics Dashboard (SAP UI5 & OData)** [cite: 30]
+* [cite_start]Developed an enterprise-grade SAP Fiori application to manage and analyze performance data[cite: 31].
+* [cite_start]Implemented full **CRUD operations** and complex data binding for seamless user interaction[cite: 32].
+* [cite_start]Applied **Fiori Design Guidelines** to ensure a responsive, professional UX[cite: 33].
+
+#### [cite_start]**Vehicle Engine Health Predictor (Deep Learning & Flask)** [cite: 41]
+* [cite_start]Built a predictive maintenance tool to detect engine faults using **CNN, LSTM, and XGBoost**[cite: 41, 42].
+* [cite_start]Designed a real-time health monitoring interface to reduce vehicle downtime[cite: 43].
+
+#### [cite_start]**Dairy Farm Management System (Angular & Oracle)** [cite: 38]
+* [cite_start]Created a management portal utilizing **Component-based Architecture** to track inventory and operations[cite: 38, 39].
+
+---
+
+### 📈 GitHub Stats & Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&theme=radical&hide_border=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ameenkhan1715&theme=radical&hide_border=true" width="100%" />
+</p>
+
+---
+
+### ⚡ Professional Focus
+* [cite_start]🔭 **Current Project:** Refining the **RASAD** dashboard with advanced custom validation[cite: 24, 30].
+* [cite_start]🌱 **Learning Path:** Mastering **OData Service modeling** and **ABAP** foundations[cite: 10, 12].
+* [cite_start]💬 **Expertise:** Ask me about **SAP Fiori Launchpad concepts** (Tiles, Catalogs, Groups)[cite: 23].
+* [cite_start]👯 **Collaboration:** Interested in contributing to **Open Source SAP projects** and high-performance web platforms.
+
+---
+
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/ameen-ul-hassan-khan-420532284" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ameenkhan5256@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://bsky.app/profile/ameenkhan1715" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
+</p>
+
+<p align="right"><i>Profile Visitors:</i> <img src="https://visitcount.itsvg.in/api?id=ameenkhan1715&icon=0&color=0" /></p>
