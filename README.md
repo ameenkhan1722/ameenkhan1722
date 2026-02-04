@@ -1,102 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,00d4ff,0072ff,002157&height=280&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=50&animation=twinkling&fontAlignY=40&desc=SAP%20FIORI%20%E2%94%83%20UI5%20EXPERTS%20%E2%94%83%20FULL-STACK&descAlignY=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=180&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=45&fontAlignY=40&desc=SAP%20FIORI%20%7C%20UI5%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=65&descSize=20&fontColor=FFFFFF" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameenkhan1715&theme=tokyonight&no-bg=true&margin-w=15&column=5" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=MASTERING+MVC+ARCHITECTURE;ODATA+SERVICE+ORCHESTRATION;ENTERPRISE+UX+DESIGNER;AI+DRIVEN+DEVELOPMENT" />
-</p>
-
----
-
-## 🔱 TECHNICAL ARMORY (3D STACK)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sap,js,ts,html,css,react,angular,nodejs,python,flask,mongodb,mysql,oracle,aws,git,vscode,github,bitbucket&perline=9" />
-</p>
-
----
-
-## 📁 MISSION LOGS (PROJECT PORTFOLIO)
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚔️ RASAD — PLAYER METRICS</h3>
-      <img src="https://img.shields.io/badge/TECH-SAP_UI5_|_FIORI-0072C6?style=for-the-badge&logo=sap" />
-      <p><i>Professional Fiori application for performance analytics.</i></p>
-      <ul>
-        <li>Implemented <b>Full CRUD Operations</b>.</li>
-        <li>Advanced Data Binding & Complex Routing.</li>
-        <li>Built with <b>SAP BAS</b> & ABAP OData.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚔️ VEHICLE ENGINE PREDICTOR</h3>
-      <img src="https://img.shields.io/badge/TECH-DEEP_LEARNING_|_FLASK-red?style=for-the-badge&logo=flask" />
-      <p><i>Predictive maintenance via sensor data analysis.</i></p>
-      <ul>
-        <li>Engineered with <b>CNN, LSTM, & XGBoost</b>.</li>
-        <li>Real-time engine health monitoring.</li>
-        <li>Reduced industrial downtime via AI.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚔️ GAME SPECIFICATION PLATFORM</h3>
-      <img src="https://img.shields.io/badge/TECH-REACT_|_MONGODB-61DAFB?style=for-the-badge&logo=react" />
-      <p><i>High-performance gaming info engine.</i></p>
-      <ul>
-        <li>Dynamic web platform using <b>React.js</b>.</li>
-        <li>Flexible schema-less <b>MongoDB</b> integration.</li>
-        <li>State management for high speed.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚔️ DAIRY FARM MANAGEMENT</h3>
-      <img src="https://img.shields.io/badge/TECH-ANGULAR_|_ORACLE-DD0031?style=for-the-badge&logo=angular" />
-      <p><i>Digitized inventory & ops tracking system.</i></p>
-      <ul>
-        <li>Built on <b>Component-based Architecture</b>.</li>
-        <li>Strict <b>TypeScript</b> reusable UI elements.</li>
-        <li>Oracle DB for robust storage.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 LIVE INTELLIGENCE (REAL-TIME DATA)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameenkhan1715&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D1FF&ring=00D1FF&fire=00D1FF" width="96%" />
-</p>
-
----
-
-## 🎓 SCHOLASTIC ARCHIVE
-> **B.Tech in Computer Science Engineering** (2021–2025)  
-> `Narasaraopeta Engineering College` | **8.08 CGPA**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Intermediate-6.60_CGPA-00D1FF?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/Secondary_SSC-9.0_CGPA-00D1FF?style=flat-square" />
-</p>
-
----
-
-## 📡 CURRENT TELEMETRY
-* 🔭 **Current Project:** Refining **RASAD** with custom validation and responsive UX design.
-* 🌱 **Skill Tree:** Advanced OData modeling and SAP Fiori Launchpad management.
-* ⚡ **Specialty:** Advanced **SAPUI5 Debugging** and **Code Inspector** tools.
 
 <p align="center">
   <a href="https://linkedin.com/in/ameen-ul-hassan-khan-420532284" target="_blank">
@@ -108,6 +12,93 @@
   </a>
 </p>
 
+---
+
+## 📑 EXECUTIVE SUMMARY
+Aspiring **SAP UI5 Fiori Developer** with a high-performance foundation in **MVC architecture**. Specialized in developing custom UI5 applications using **SAP Business Application Studio (BAS)** and **VS Code**. Proficient in bridging frontend interfaces with **OData services** via **SAP NetWeaver Gateway** and mapping UI elements with Entity/Entity Sets.
+
+---
+
+## 🛠️ CORE COMPETENCIES
+
+| CATEGORY | SKILLSET |
+| :--- | :--- |
+| **SAP Ecosystem** | `SAPUI5` `SAP Fiori` `OData (SEGW)` `ABAP (Foundational)` `XML Views` |
+| **Web Technologies** | `JavaScript (ES6+)` `TypeScript` `React.js` `Angular` `Node.js` |
+| **AI & Backend** | `Python` `Flask` `Deep Learning (CNN/LSTM)` `JSON` |
+| **Data Systems** | `MongoDB` `Oracle` `MySQL` |
+| **DevOps & Cloud** | `SAP BAS` `AWS Cloud` `Git` `Bitbucket` `VS Code` |
+
+---
+
+## ⚔️ PROJECT PORTFOLIO
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 RASAD — PLAYER METRICS</h3>
+      <p><b>Stack:</b> <code>SAP UI5</code> <code>Fiori</code> <code>ABAP OData</code></p>
+      <ul>
+        <li>Professional SAP Fiori application for performance analytics.</li>
+        <li>Implemented full <b>CRUD operations</b> and complex Routing.</li>
+        <li>Applied <b>Fiori Design Guidelines</b> for enterprise-grade UX.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ ENGINE HEALTH PREDICTOR</h3>
+      <p><b>Stack:</b> <code>Deep Learning</code> <code>Flask</code> <code>Python</code></p>
+      <ul>
+        <li>Predictive maintenance tool detecting engine faults via sensor data.</li>
+        <li>Integrated <b>CNN, LSTM, and XGBoost</b> models.</li>
+        <li>Aimed at reducing downtime through real-time monitoring.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 GAME SPEC PLATFORM</h3>
+      <p><b>Stack:</b> <code>React.js</code> <code>MongoDB</code></p>
+      <ul>
+        <li>Dynamic web platform for high-performance frontend delivery.</li>
+        <li>Focused on <b>State Management</b> and Responsive Web Design.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐄 DAIRY FARM MANAGEMENT</h3>
+      <p><b>Stack:</b> <code>Angular</code> <code>Oracle</code></p>
+      <ul>
+        <li>Digitized operations and inventory tracking portal.</li>
+        <li>Built using <b>Component-based Architecture</b> and TypeScript.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 ANALYTICS & TELEMETRY
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=100&section=footer&flip=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=nord&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🎓 ACADEMIC BACKGROUND
+* **B.Tech in Computer Science Engineering** (2021 – 2025)
+    * *Narasaraopeta Engineering College* | **8.08 CGPA**
+* **Intermediate (MPC)**
+    * *Sri Sai Junior College* | **6.60 CGPA**
+* **Secondary School (SSC)**
+    * *Bhashyam High School* | **9.0 CGPA**
+
+---
+
+## 📡 CURRENT FOCUS
+* 🔭 **Current Project:** Refining **RASAD** with custom validation and responsive UX.
+* 🌱 **Learning Path:** Advanced **SAP Fiori Launchpad** (Tiles, Catalogs, Groups).
+* 💬 **Technical Expertise:** Proficient in **SAPUI5 Debugging** and Code Inspector.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=30&section=footer" />
 </p>
