@@ -18,14 +18,15 @@
 
 ---
 
-## 📊 SYSTEM CAPABILITIES (ANIMATED PROGRESS)
+## ⚡ TECH STACK TERMINAL (LIVE ANIMATED)
 
-| **TECHNICAL DOMAIN** | **MASTERY LEVEL** | **CORE TECHNOLOGIES** |
-| :--- | :--- | :--- |
-| **SAP Fiori / UI5** | `██████████████████░░` | `UI5` `SEGW` `Fiori Elements` |
-| **Web Frameworks** | `████████████████░░░░` | `React` `Angular` `TypeScript` |
-| **Backend & AI** | `████████████░░░░░░░░` | `Node.js` `Python` `Flask` `ML` |
-| **Data Architecture** | `██████████████░░░░░░` | `MongoDB` `Oracle` `SQL` |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sap,js,ts,html,css,react,angular,nodejs,python,flask,mongodb,mysql,oracle,aws,git,vscode,github,bitbucket&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%E2%9C%94+SAP+UI5+%2F+Fiori+Elements+Synthesized...;%E2%9C%94+OData+V2%2FV4+Service+Consumption+Active...;%E2%9C%94+Full-Stack+Cloud+Engines+Operational...;%E2%9C%94+Predictive+AI+Models+Synchronized..." />
+</p>
 
 ---
 
