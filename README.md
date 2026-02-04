@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=200&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=45&fontAlignY=40&descSize=20&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=200&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=45&fontAlignY=40&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=SAP+UI5+%26+FIORI+DEVELOPER;MVC+ARCHITECTURE+SPECIALIST;ODATA+%26+SAP+GATEWAY+EXPERT;FULL-STACK+ENGINEER+(REACT+%2F+ANGULAR);BUILDING+ENTERPRISE+SOLUTIONS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=SAP+UI5+FIORI+DEVELOPER;MVC+ARCHITECTURE+SPECIALIST;ODATA+%26+SAP+GATEWAY+EXPERT;ENTERPRISE+SOLUTION+ARCHITECT" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,20 +18,19 @@
 
 ---
 
-## 👨‍💻 PROFESSIONAL SUMMARY
-Aspiring **SAP UI5 & Fiori Developer** with a robust foundation in **MVC architecture**. Specialized in developing enterprise-grade custom UI5 applications using **SAP Business Application Studio (BAS)**. Expert in orchestrating **OData services** via **SAP NetWeaver Gateway** to create seamless, data-driven business interfaces.
+## 📊 SYSTEM CAPABILITIES (ANIMATED PROGRESS)
+
+| **TECHNICAL DOMAIN** | **MASTERY LEVEL** | **CORE TECHNOLOGIES** |
+| :--- | :--- | :--- |
+| **SAP Fiori / UI5** | `██████████████████░░` | `UI5` `SEGW` `Fiori Elements` |
+| **Web Frameworks** | `████████████████░░░░` | `React` `Angular` `TypeScript` |
+| **Backend & AI** | `████████████░░░░░░░░` | `Node.js` `Python` `Flask` `ML` |
+| **Data Architecture** | `██████████████░░░░░░` | `MongoDB` `Oracle` `SQL` |
 
 ---
 
-## 🛠️ TECHNICAL COMPETENCIES
-
-| CATEGORY | TECHNOLOGIES |
-| :--- | :--- |
-| **SAP Fiori / UI5** | `SAPUI5` `Fiori Elements` `OData Service Modeling` `SAP Gateway (SEGW)` |
-| **Frontend Frameworks** | `React.js` `Angular` `JavaScript (ES6+)` `TypeScript` `HTML5/CSS3` |
-| **Backend & AI** | `Node.js` `Python` `Flask` `Deep Learning (CNN, LSTM, XGBoost)` |
-| **Database & Cloud** | `MongoDB` `Oracle DB` `MySQL` `AWS Cloud` |
-| **Tools & Versioning** | `SAP BAS` `VS Code` `Git` `Bitbucket` `SAP GUI` |
+## 👨‍💻 PROFESSIONAL SUMMARY
+Aspiring **SAP UI5 & Fiori Developer** with a robust foundation in **MVC architecture**. Specialized in developing enterprise-grade custom UI5 applications using **SAP Business Application Studio (BAS)**. Expert in orchestrating **OData services** via **SAP NetWeaver Gateway** to create seamless, data-driven business interfaces.
 
 ---
 
@@ -77,14 +76,6 @@ Aspiring **SAP UI5 & Fiori Developer** with a robust foundation in **MVC archite
     </td>
   </tr>
 </table>
-
----
-
-## 📊 REPOSITORY INSIGHTS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=nord&hide_border=true&bg_color=F9F9F9&title_color=002157&icon_color=0072C6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=nord&hide_border=true&bg_color=F9F9F9&title_color=002157" width="48%" />
-</p>
 
 ---
 
