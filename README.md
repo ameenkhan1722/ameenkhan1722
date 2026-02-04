@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001529&height=250&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=55&animation=fadeIn&fontAlignY=40&desc=SAP%20FIORI%20%E2%97%8A%20UI5%20ENGINEER%20%E2%97%8A%20FULL%20STACK&descAlignY=62&descSize=20&fontColor=00d1ff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001529&height=250&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=55&animation=fadeIn&fontAlignY=40&desc=SYSTEMS%20ARCHITECT%20%E2%94%83%20SAP%20FIORI%20%E2%94%83%20DATA%20SCIENCE&descAlignY=62&descSize=20&fontColor=00d1ff" />
 </p>
 
 <p align="center">
@@ -7,83 +7,99 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=ENTERPRISE+SYSTEMS+ARCHITECT;SAP+UI5+%2F+FIORI+SPECIALIST;ODATA+SERVICE+ORCHESTRATOR;FULL+STACK+DEVELOPER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=CORE+SYSTEM+ACTIVE;SAP+UI5+ENGINEER+DETECTED;ODATA+FLOW+OPTIMIZED;FULL+STACK+MASTERY" />
 </p>
 
 ---
 
-## 🦾 TECH ARMORY (CORE STACK)
+## 🦾 SYSTEM CAPABILITIES (ANIMATED PROGRESS)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sap,js,ts,html,css,react,angular,nodejs,python,flask,mongodb,mysql,oracle,aws,git,vscode,github,bitbucket&perline=9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF" width="90%" />
 </p>
+
+| **DOMAIN** | **LEVEL** | **TECH STACK** |
+| :--- | :--- | :--- |
+| **SAP Enterprise** | `██████████ 95%` | `UI5` `Fiori` `OData` `ABAP` |
+| **Frontend Dev** | `████████░░ 85%` | `React` `Angular` `TS` `ES6+` |
+| **Backend & AI** | `███████░░░ 75%` | `Node.js` `Python` `Flask` `ML` |
+| **Data Systems** | `████████░░ 80%` | `MongoDB` `Oracle` `MySQL` |
 
 ---
 
-## ⚔️ MISSION LOGS (PROJECT PORTFOLIO)
+## ⚔️ MISSION LOGS (PROJECT DATA GRID)
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 RASAD DASHBOARD</h3>
-      <img src="https://img.shields.io/badge/SAP-FIORI_UI5-0072C6?style=for-the-badge&logo=sap&logoColor=white" />
-      <p>Advanced player metrics analytics engine. Managed end-to-end integration with <b>ABAP OData</b> services.</p>
-      <ul>
-        <li>Full CRUD Logic</li>
-        <li>Advanced Data Binding</li>
-        <li>Fiori UX Guidelines</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ ENGINE PREDICTOR</h3>
-      <img src="https://img.shields.io/badge/AI-DEEP_LEARNING-FF4B11?style=for-the-badge&logo=python&logoColor=white" />
-      <p>Predictive maintenance system using <b>CNN & LSTM</b> models to detect engine faults in real-time.</p>
-      <ul>
-        <li>Sensor Data Telemetry</li>
-        <li>Flask API Integration</li>
-        <li>High-Accuracy Forecasting</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 GAME SPEC PLATFORM</h3>
-      <img src="https://img.shields.io/badge/WEB-REACT_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <p>High-performance platform built with <b>React.js</b> and <b>MongoDB</b> for dynamic data delivery.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐄 DAIRY MANAGEMENT</h3>
-      <img src="https://img.shields.io/badge/WEB-ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <p>Enterprise resource portal using <b>Component-based Architecture</b> and <b>Oracle DB</b>.</p>
-    </td>
-  </tr>
+  <thead>
+    <tr style="background: #001529;">
+      <th width="30%">PROJECT CODE</th>
+      <th width="40%">CORE ARCHITECTURE</th>
+      <th width="30%">OPERATIONAL STATUS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>PROJECT: RASAD</b></td>
+      <td><code>SAP UI5</code> + <code>OData</code> + <code>Fiori UX</code></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LIVE-STABLE-success?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3"><i>Metric analytics engine for player performance. Specialized in deep integration with SAP NetWeaver Gateway.</i></td>
+    </tr>
+    <tr>
+      <td align="center"><b>ENGINE PREDICTOR</b></td>
+      <td><code>CNN</code> + <code>LSTM</code> + <code>Flask</code></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI-ACTIVE-blue?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3"><i>High-fidelity predictive maintenance tool analyzing sensor telemetry to mitigate industrial downtime.</i></td>
+    </tr>
+    <tr>
+      <td align="center"><b>GAME SPEC PLATFORM</b></td>
+      <td><code>React.js</code> + <code>MongoDB</code></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/WEB-DEPLOYED-blueviolet?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>DAIRY MGMT</b></td>
+      <td><code>Angular</code> + <code>Oracle DB</code></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/ERP-LEGACY-orange?style=for-the-badge" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## 📊 LIVE INTELLIGENCE (TELEMETRY)
+## 📊 LIVE TELEMETRY (REAL-TIME ACTIVITY)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameenkhan1715&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D1FF&ring=00D1FF&fire=00D1FF" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameenkhan1715&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D1FF&ring=00D1FF&fire=00D1FF" width="49%" />
 </p>
 
 ---
 
-## 📡 CURRENT STATUS
-- 🔭 **In Progress:** Optimizing **RASAD** with custom validation and responsive CSS.
-- 🌱 **Leveling Up:** Advanced **SAP Fiori Launchpad** (Tiles, Catalogs, Groups).
-- 🎓 **Education:** B.Tech in CSE | **8.08 CGPA**
+## 📡 CURRENT TELEMETRY & NETWORK
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameenkhan1715&theme=tokyonight" width="100%" />
+</p>
+
+* 🔭 **Current:** Refining **RASAD** with custom validation and responsive UX.
+* 🌱 **Learning:** Advanced OData modeling and **SAP Fiori Launchpad** management.
+* 💬 **Focus:** High-Performance **MVC Architecture** in Enterprise environments.
 
 <p align="center">
-  <a href="https://linkedin.com/in/ameen-ul-hassan-khan-420532284" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/ameen-ul-hassan-khan-420532284">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:ameenkhan5256@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
