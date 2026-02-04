@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=180&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=45&fontAlignY=40&desc=SAP%20FIORI%20%7C%20UI5%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=65&descSize=20&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=200&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=45&fontAlignY=40&desc=SAP%20FIORI%20%7C%20UI5%20DEVELOPER%20%7C%20B.TECH%20CSE%20'25&descAlignY=65&descSize=18&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -14,61 +14,61 @@
 
 ---
 
-## 📑 EXECUTIVE SUMMARY
-Aspiring **SAP UI5 Fiori Developer** with a high-performance foundation in **MVC architecture**. Specialized in developing custom UI5 applications using **SAP Business Application Studio (BAS)** and **VS Code**. Proficient in bridging frontend interfaces with **OData services** via **SAP NetWeaver Gateway** and mapping UI elements with Entity/Entity Sets.
+## 👨‍💻 PROFESSIONAL SUMMARY
+Aspiring **SAP UI5 & Fiori Developer** with a robust foundation in **MVC architecture**. Specialized in developing enterprise-grade custom UI5 applications using **SAP Business Application Studio (BAS)**. Expert in orchestrating **OData services** via **SAP NetWeaver Gateway** to create seamless, data-driven business interfaces.
 
 ---
 
-## 🛠️ CORE COMPETENCIES
+## 🛠️ TECHNICAL COMPETENCIES
 
-| CATEGORY | SKILLSET |
+| CATEGORY | TECHNOLOGIES |
 | :--- | :--- |
-| **SAP Ecosystem** | `SAPUI5` `SAP Fiori` `OData (SEGW)` `ABAP (Foundational)` `XML Views` |
-| **Web Technologies** | `JavaScript (ES6+)` `TypeScript` `React.js` `Angular` `Node.js` |
-| **AI & Backend** | `Python` `Flask` `Deep Learning (CNN/LSTM)` `JSON` |
-| **Data Systems** | `MongoDB` `Oracle` `MySQL` |
-| **DevOps & Cloud** | `SAP BAS` `AWS Cloud` `Git` `Bitbucket` `VS Code` |
+| **SAP Fiori / UI5** | `SAPUI5` `Fiori Elements` `OData Service Modeling` `SAP Gateway (SEGW)` |
+| **Frontend Frameworks** | `React.js` `Angular` `JavaScript (ES6+)` `TypeScript` `HTML5/CSS3` |
+| **Backend & AI** | `Node.js` `Python` `Flask` `Deep Learning (CNN, LSTM, XGBoost)` |
+| **Database & Cloud** | `MongoDB` `Oracle DB` `MySQL` `AWS Cloud` |
+| **Tools & Versioning** | `SAP BAS` `VS Code` `Git` `Bitbucket` `SAP GUI` |
 
 ---
 
-## ⚔️ PROJECT PORTFOLIO
+## 💼 FEATURED PROJECTS
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 RASAD — PLAYER METRICS</h3>
-      <p><b>Stack:</b> <code>SAP UI5</code> <code>Fiori</code> <code>ABAP OData</code></p>
+      <h3>🚀 RASAD — PLAYER DASHBOARD</h3>
+      <p><b>Core:</b> <code>SAP UI5</code> <code>Fiori</code> <code>ABAP OData</code></p>
       <ul>
-        <li>Professional SAP Fiori application for performance analytics.</li>
-        <li>Implemented full <b>CRUD operations</b> and complex Routing.</li>
-        <li>Applied <b>Fiori Design Guidelines</b> for enterprise-grade UX.</li>
+        <li>Integrated high-performance performance analytics with <b>ABAP OData services</b>.</li>
+        <li>Developed full <b>CRUD operations</b> and complex view routing.</li>
+        <li>Applied <b>Fiori Design Guidelines</b> for responsive enterprise UX.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ ENGINE HEALTH PREDICTOR</h3>
-      <p><b>Stack:</b> <code>Deep Learning</code> <code>Flask</code> <code>Python</code></p>
+      <p><b>Core:</b> <code>Python</code> <code>Deep Learning</code> <code>Flask</code></p>
       <ul>
-        <li>Predictive maintenance tool detecting engine faults via sensor data.</li>
-        <li>Integrated <b>CNN, LSTM, and XGBoost</b> models.</li>
-        <li>Aimed at reducing downtime through real-time monitoring.</li>
+        <li>Engineered a predictive maintenance tool to identify engine faults in real-time.</li>
+        <li>Utilized <b>CNN and LSTM</b> models for high-accuracy sensor data analysis.</li>
+        <li>Focused on reducing downtime through AI-driven insights.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎮 GAME SPEC PLATFORM</h3>
-      <p><b>Stack:</b> <code>React.js</code> <code>MongoDB</code></p>
+      <p><b>Core:</b> <code>React.js</code> <code>MongoDB</code></p>
       <ul>
-        <li>Dynamic web platform for high-performance frontend delivery.</li>
-        <li>Focused on <b>State Management</b> and Responsive Web Design.</li>
+        <li>Built a high-performance web portal for game metrics delivery.</li>
+        <li>Implemented <b>State Management</b> and high-speed data fetching.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🐄 DAIRY FARM MANAGEMENT</h3>
-      <p><b>Stack:</b> <code>Angular</code> <code>Oracle</code></p>
+      <p><b>Core:</b> <code>Angular</code> <code>Oracle DB</code></p>
       <ul>
-        <li>Digitized operations and inventory tracking portal.</li>
-        <li>Built using <b>Component-based Architecture</b> and TypeScript.</li>
+        <li>Digitized operations using <b>Component-based Architecture</b>.</li>
+        <li>Secured inventory tracking with robust Oracle DB integration.</li>
       </ul>
     </td>
   </tr>
@@ -76,28 +76,26 @@ Aspiring **SAP UI5 Fiori Developer** with a high-performance foundation in **MVC
 
 ---
 
-## 📊 ANALYTICS & TELEMETRY
+## 📊 REPOSITORY INSIGHTS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=nord&hide_border=true&bg_color=F9F9F9&title_color=002157&icon_color=0072C6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=nord&hide_border=true&bg_color=F9F9F9&title_color=002157" width="48%" />
 </p>
 
 ---
 
 ## 🎓 ACADEMIC BACKGROUND
-* **B.Tech in Computer Science Engineering** (2021 – 2025)
-    * *Narasaraopeta Engineering College* | **8.08 CGPA**
-* **Intermediate (MPC)**
-    * *Sri Sai Junior College* | **6.60 CGPA**
-* **Secondary School (SSC)**
-    * *Bhashyam High School* | **9.0 CGPA**
+* **B.Tech in Computer Science Engineering** (2021 – 2025)  
+  *Narasaraopeta Engineering College* | **8.08 CGPA**
+* **Intermediate (MPC)** *Sri Sai Junior College* | **6.60 CGPA**
+* **Secondary School (SSC)** *Bhashyam High School* | **9.0 CGPA**
 
 ---
 
-## 📡 CURRENT FOCUS
-* 🔭 **Current Project:** Refining **RASAD** with custom validation and responsive UX.
-* 🌱 **Learning Path:** Advanced **SAP Fiori Launchpad** (Tiles, Catalogs, Groups).
-* 💬 **Technical Expertise:** Proficient in **SAPUI5 Debugging** and Code Inspector.
+## 📡 CURRENT OBJECTIVES
+* 🔭 **In-Development:** Refining **RASAD** with advanced OData modeling and custom UX validation.
+* 🌱 **Skill Expansion:** Mastering **SAP Fiori Launchpad** (Tiles, Catalogs, and Groups management).
+* ⚡ **Technical Edge:** Proficient in **SAPUI5 Debugging** and Enterprise Performance Optimization.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=30&section=footer" />
