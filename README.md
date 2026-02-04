@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=200&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=45&fontAlignY=40&desc=SAP%20FIORI%20%7C%20UI5%20DEVELOPER%20%7C%20B.TECH%20CSE%20'25&descAlignY=65&descSize=18&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=002157&height=200&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=45&fontAlignY=40&descSize=20&fontColor=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=SAP+UI5+%26+FIORI+DEVELOPER;MVC+ARCHITECTURE+SPECIALIST;ODATA+%26+SAP+GATEWAY+EXPERT;FULL-STACK+ENGINEER+(REACT+%2F+ANGULAR);BUILDING+ENTERPRISE+SOLUTIONS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +43,7 @@ Aspiring **SAP UI5 & Fiori Developer** with a robust foundation in **MVC archite
       <h3>🚀 RASAD — PLAYER DASHBOARD</h3>
       <p><b>Core:</b> <code>SAP UI5</code> <code>Fiori</code> <code>ABAP OData</code></p>
       <ul>
-        <li>Integrated high-performance performance analytics with <b>ABAP OData services</b>.</li>
+        <li>Integrated high-performance analytics with <b>ABAP OData services</b>.</li>
         <li>Developed full <b>CRUD operations</b> and complex view routing.</li>
         <li>Applied <b>Fiori Design Guidelines</b> for responsive enterprise UX.</li>
       </ul>
@@ -48,8 +52,8 @@ Aspiring **SAP UI5 & Fiori Developer** with a robust foundation in **MVC archite
       <h3>🛡️ ENGINE HEALTH PREDICTOR</h3>
       <p><b>Core:</b> <code>Python</code> <code>Deep Learning</code> <code>Flask</code></p>
       <ul>
-        <li>Engineered a predictive maintenance tool to identify engine faults in real-time.</li>
-        <li>Utilized <b>CNN and LSTM</b> models for high-accuracy sensor data analysis.</li>
+        <li>Predictive maintenance tool identifying engine faults in real-time.</li>
+        <li>Utilized <b>CNN and LSTM</b> models for high-accuracy sensor analysis.</li>
         <li>Focused on reducing downtime through AI-driven insights.</li>
       </ul>
     </td>
@@ -76,6 +80,13 @@ Aspiring **SAP UI5 & Fiori Developer** with a robust foundation in **MVC archite
 
 ---
 
+## 📊 REPOSITORY INSIGHTS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=nord&hide_border=true&bg_color=F9F9F9&title_color=002157&icon_color=0072C6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=nord&hide_border=true&bg_color=F9F9F9&title_color=002157" width="48%" />
+</p>
+
+---
 
 ## 🎓 ACADEMIC BACKGROUND
 * **B.Tech in Computer Science Engineering** (2021 – 2025)  
