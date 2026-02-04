@@ -76,13 +76,6 @@ Aspiring **SAP UI5 & Fiori Developer** with a robust foundation in **MVC archite
 
 ---
 
-## 📊 REPOSITORY INSIGHTS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=nord&hide_border=true&bg_color=F9F9F9&title_color=002157&icon_color=0072C6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=nord&hide_border=true&bg_color=F9F9F9&title_color=002157" width="48%" />
-</p>
-
----
 
 ## 🎓 ACADEMIC BACKGROUND
 * **B.Tech in Computer Science Engineering** (2021 – 2025)  
