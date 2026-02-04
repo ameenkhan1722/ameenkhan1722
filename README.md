@@ -1,112 +1,92 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,00d4ff,0072ff,002157&height=280&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=50&animation=twinkling&fontAlignY=40&desc=SAP%20FIORI%20%E2%94%83%20UI5%20EXPERTS%20%E2%94%83%20FULL-STACK&descAlignY=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001529&height=250&section=header&text=AMEEN%20UL%20HASSAN%20KHAN&fontSize=55&animation=fadeIn&fontAlignY=40&desc=SAP%20FIORI%20%E2%97%8A%20UI5%20ENGINEER%20%E2%97%8A%20FULL%20STACK&descAlignY=62&descSize=20&fontColor=00d1ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&margin-w=15&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ameenkhan1715&theme=tokyonight&no-bg=true&margin-w=15&column=5" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=MASTERING+MVC+ARCHITECTURE;ODATA+SERVICE+ORCHESTRATION;ENTERPRISE+UX+DESIGNER;AI+DRIVEN+DEVELOPMENT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=ENTERPRISE+SYSTEMS+ARCHITECT;SAP+UI5+%2F+FIORI+SPECIALIST;ODATA+SERVICE+ORCHESTRATOR;FULL+STACK+DEVELOPER" />
 </p>
 
 ---
 
-## 🔱 TECHNICAL ARMORY (3D STACK)
+## 🦾 TECH ARMORY (CORE STACK)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sap,js,ts,html,css,react,angular,nodejs,python,flask,mongodb,mysql,oracle,aws,git,vscode,github,bitbucket&perline=9" />
 </p>
 
 ---
 
-## 📁 MISSION LOGS (PROJECT PORTFOLIO)
+## ⚔️ MISSION LOGS (PROJECT PORTFOLIO)
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3>⚔️ RASAD — PLAYER METRICS</h3>
-      <img src="https://img.shields.io/badge/TECH-SAP_UI5_|_FIORI-0072C6?style=for-the-badge&logo=sap" />
-      <p><i>Professional Fiori application for performance analytics.</i></p>
+    <td width="50%" valign="top">
+      <h3>🚀 RASAD DASHBOARD</h3>
+      <img src="https://img.shields.io/badge/SAP-FIORI_UI5-0072C6?style=for-the-badge&logo=sap&logoColor=white" />
+      <p>Advanced player metrics analytics engine. Managed end-to-end integration with <b>ABAP OData</b> services.</p>
       <ul>
-        <li>Implemented <b>Full CRUD Operations</b>.</li>
-        <li>Advanced Data Binding & Complex Routing.</li>
-        <li>Built with <b>SAP BAS</b> & ABAP OData.</li>
+        <li>Full CRUD Logic</li>
+        <li>Advanced Data Binding</li>
+        <li>Fiori UX Guidelines</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3>⚔️ VEHICLE ENGINE PREDICTOR</h3>
-      <img src="https://img.shields.io/badge/TECH-DEEP_LEARNING_|_FLASK-red?style=for-the-badge&logo=flask" />
-      <p><i>Predictive maintenance via sensor data analysis.</i></p>
+    <td width="50%" valign="top">
+      <h3>🛡️ ENGINE PREDICTOR</h3>
+      <img src="https://img.shields.io/badge/AI-DEEP_LEARNING-FF4B11?style=for-the-badge&logo=python&logoColor=white" />
+      <p>Predictive maintenance system using <b>CNN & LSTM</b> models to detect engine faults in real-time.</p>
       <ul>
-        <li>Engineered with <b>CNN, LSTM, & XGBoost</b>.</li>
-        <li>Real-time engine health monitoring.</li>
-        <li>Reduced industrial downtime via AI.</li>
+        <li>Sensor Data Telemetry</li>
+        <li>Flask API Integration</li>
+        <li>High-Accuracy Forecasting</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>⚔️ GAME SPECIFICATION PLATFORM</h3>
-      <img src="https://img.shields.io/badge/TECH-REACT_|_MONGODB-61DAFB?style=for-the-badge&logo=react" />
-      <p><i>High-performance gaming info engine.</i></p>
-      <ul>
-        <li>Dynamic web platform using <b>React.js</b>.</li>
-        <li>Flexible schema-less <b>MongoDB</b> integration.</li>
-        <li>State management for high speed.</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>🎮 GAME SPEC PLATFORM</h3>
+      <img src="https://img.shields.io/badge/WEB-REACT_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <p>High-performance platform built with <b>React.js</b> and <b>MongoDB</b> for dynamic data delivery.</p>
     </td>
-    <td width="50%">
-      <h3>⚔️ DAIRY FARM MANAGEMENT</h3>
-      <img src="https://img.shields.io/badge/TECH-ANGULAR_|_ORACLE-DD0031?style=for-the-badge&logo=angular" />
-      <p><i>Digitized inventory & ops tracking system.</i></p>
-      <ul>
-        <li>Built on <b>Component-based Architecture</b>.</li>
-        <li>Strict <b>TypeScript</b> reusable UI elements.</li>
-        <li>Oracle DB for robust storage.</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>🐄 DAIRY MANAGEMENT</h3>
+      <img src="https://img.shields.io/badge/WEB-ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <p>Enterprise resource portal using <b>Component-based Architecture</b> and <b>Oracle DB</b>.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📡 LIVE INTELLIGENCE (REAL-TIME DATA)
+## 📊 LIVE INTELLIGENCE (TELEMETRY)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenkhan1715&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenkhan1715&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D1FF&ring=00D1FF&fire=00D1FF" width="96%" />
-</p>
-
----
-
-## 🎓 SCHOLASTIC ARCHIVE
-> **B.Tech in Computer Science Engineering** (2021–2025)  
-> `Narasaraopeta Engineering College` | **8.08 CGPA**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Intermediate-6.60_CGPA-00D1FF?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/Secondary_SSC-9.0_CGPA-00D1FF?style=flat-square" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameenkhan1715&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D1FF&ring=00D1FF&fire=00D1FF" width="96%" />
 </p>
 
 ---
 
-## 📡 CURRENT TELEMETRY
-* 🔭 **Current Project:** Refining **RASAD** with custom validation and responsive UX design.
-* 🌱 **Skill Tree:** Advanced OData modeling and SAP Fiori Launchpad management.
-* ⚡ **Specialty:** Advanced **SAPUI5 Debugging** and **Code Inspector** tools.
+## 📡 CURRENT STATUS
+- 🔭 **In Progress:** Optimizing **RASAD** with custom validation and responsive CSS.
+- 🌱 **Leveling Up:** Advanced **SAP Fiori Launchpad** (Tiles, Catalogs, Groups).
+- 🎓 **Education:** B.Tech in CSE | **8.08 CGPA**
 
 <p align="center">
-  <a href="https://linkedin.com/in/ameen-ul-hassan-khan-420532284">
+  <a href="https://linkedin.com/in/ameen-ul-hassan-khan-420532284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:ameenkhan5256@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=100&section=footer&flip=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001529&height=100&section=footer&flip=true" />
 </p>
